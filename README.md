@@ -2,7 +2,7 @@
 
 A Streamlit web application for generating professional client agreement PDFs with digital signatures, QR codes, and modern UI.
 
-##🚀 Features
+## 🚀 Features
 
 PDF Generation: Well-formatted agreements with headers, footers, and tables
 
@@ -14,11 +14,11 @@ Responsive Design: Modern, professional UI
 
 Temporary Storage: Secure handling of generated files
 
-##💻 Live Demo
+## 💻 Live Demo
 
 Streamlit App Link:https://pdfgeneratordemotask-2vvt7ayg3gdym79sihgaek.streamlit.app/
 
-##📋 Requirements
+## 📋 Requirements
 
 Python 3.11+
 
