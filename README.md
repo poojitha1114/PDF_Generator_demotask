@@ -1,3 +1,4 @@
+# Heading 1 
 Client Agreement PDF Generator
 
 A Streamlit web application for generating professional client agreement PDFs with digital signatures, QR codes, and modern UI.
