@@ -1,6 +1,6 @@
-streamlit==1.28.1
-reportlab==4.0.4
-Pillow==10.0.1
-qrcode==7.4.2
-streamlit-drawable-canvas==0.9.3
-uuid==1.30
+streamlit
+reportlab
+Pillow
+qrcode
+streamlit-drawable-canvas
+uuid
